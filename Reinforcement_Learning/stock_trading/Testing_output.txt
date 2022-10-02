@@ -1,0 +1,170 @@
+Enter Stock_name, Model_nameGSPC_Evaluation_Dataset
+/content/model_ep30
+Buy: $1271.87
+Buy: $1276.56
+Buy: $1273.85
+Buy: $1271.50
+Buy: $1269.75
+Buy: $1285.96
+Sell: $1293.24 | Profit: $21.37
+Buy: $1295.02
+Sell: $1281.92 | Profit: $5.36
+Sell: $1280.26 | Profit: $6.41
+Buy: $1283.35
+Buy: $1291.18
+Buy: $1296.63
+Sell: $1276.34 | Profit: $4.84
+Sell: $1286.12 | Profit: $16.37
+Sell: $1307.10 | Profit: $21.14
+Buy: $1310.87
+Buy: $1319.05
+Sell: $1324.57 | Profit: $29.55
+Buy: $1320.88
+Sell: $1321.87 | Profit: $38.52
+Buy: $1329.15
+Sell: $1328.01 | Profit: $36.83
+Sell: $1343.01 | Profit: $46.38
+Sell: $1315.44 | Profit: $4.57
+Sell: $1307.40 | Profit: -$11.65
+Buy: $1306.10
+Buy: $1319.88
+Sell: $1327.22 | Profit: $6.34
+Sell: $1306.33 | Profit: -$22.82
+Sell: $1330.97 | Profit: $24.87
+Sell: $1321.15 | Profit: $1.27
+Buy: $1310.13
+Buy: $1321.82
+Buy: $1320.02
+Buy: $1295.11
+Buy: $1304.28
+Sell: $1296.39 | Profit: -$13.74
+Buy: $1281.87
+Sell: $1256.88 | Profit: -$64.94
+Buy: $1298.38
+Sell: $1293.77 | Profit: -$26.25
+Sell: $1297.54 | Profit: $2.43
+Buy: $1319.44
+Sell: $1328.26 | Profit: $23.98
+Buy: $1325.83
+Sell: $1332.41 | Profit: $50.54
+Buy: $1332.87
+Sell: $1335.54 | Profit: $37.16
+Buy: $1333.51
+Buy: $1324.46
+Sell: $1314.52 | Profit: -$4.92
+Sell: $1319.68 | Profit: -$6.15
+Sell: $1305.14 | Profit: -$27.73
+Buy: $1312.62
+Sell: $1330.36 | Profit: -$3.15
+Buy: $1337.38
+Sell: $1347.24 | Profit: $22.78
+Buy: $1355.66
+Buy: $1360.48
+Buy: $1363.61
+Sell: $1361.22 | Profit: $48.60
+Buy: $1356.62
+Sell: $1347.32 | Profit: $9.94
+Sell: $1340.20 | Profit: -$15.46
+Buy: $1346.29
+Buy: $1357.16
+Sell: $1342.08 | Profit: -$18.40
+Sell: $1328.98 | Profit: -$34.63
+Sell: $1340.68 | Profit: -$15.94
+Buy: $1343.60
+Buy: $1333.27
+Buy: $1317.37
+Sell: $1320.47 | Profit: -$25.82
+Buy: $1331.10
+Sell: $1286.17 | Profit: -$70.99
+Buy: $1279.56
+Sell: $1271.83 | Profit: -$71.77
+Buy: $1287.87
+Buy: $1267.64
+Buy: $1271.50
+Buy: $1295.52
+Sell: $1287.14 | Profit: -$46.13
+Buy: $1296.67
+Buy: $1320.64
+Sell: $1339.67 | Profit: $22.30
+Buy: $1337.88
+Sell: $1339.22 | Profit: $8.12
+Buy: $1353.22
+Sell: $1319.49 | Profit: $39.93
+Sell: $1313.64 | Profit: $25.77
+Sell: $1317.72 | Profit: $50.08
+Sell: $1308.87 | Profit: $37.37
+Buy: $1316.14
+Sell: $1326.73 | Profit: $31.21
+Sell: $1325.84 | Profit: $29.17
+Sell: $1343.80 | Profit: $23.16
+Sell: $1345.02 | Profit: $7.14
+Sell: $1337.43 | Profit: -$15.79
+Buy: $1331.94
+Sell: $1304.89 | Profit: -$11.25
+Sell: $1300.67 | Profit: -$31.27
+Buy: $1286.94
+Buy: $1260.34
+Sell: $1199.38 | Profit: -$87.56
+Sell: $1172.53 | Profit: -$87.81
+Buy: $1178.81
+Buy: $1193.89
+Buy: $1140.65
+Buy: $1123.82
+Sell: $1162.35 | Profit: -$16.46
+Sell: $1159.27 | Profit: -$34.62
+Sell: $1176.80 | Profit: $36.15
+Sell: $1210.08 | Profit: $86.26
+Buy: $1204.42
+Sell: $1165.24 | Profit: -$39.18
+Buy: $1198.62
+Buy: $1185.90
+Buy: $1172.87
+Buy: $1209.11
+Buy: $1204.09
+Sell: $1202.09 | Profit: $3.47
+Sell: $1129.56 | Profit: -$56.34
+Sell: $1136.43 | Profit: -$36.44
+Buy: $1175.38
+Buy: $1151.06
+Buy: $1160.40
+Buy: $1131.42
+Sell: $1123.95 | Profit: -$85.16
+Buy: $1144.03
+Buy: $1155.46
+Sell: $1207.25 | Profit: $3.16
+Sell: $1203.66 | Profit: $28.28
+Buy: $1224.58
+Sell: $1209.88 | Profit: $58.82
+Buy: $1215.39
+Sell: $1254.19 | Profit: $93.79
+Buy: $1229.05
+Buy: $1242.00
+Sell: $1284.59 | Profit: $153.17
+Buy: $1253.30
+Buy: $1237.90
+Buy: $1261.15
+Sell: $1253.23 | Profit: $109.20
+Sell: $1261.12 | Profit: $105.66
+Sell: $1229.10 | Profit: $4.52
+Sell: $1251.78 | Profit: $36.39
+Sell: $1257.81 | Profit: $28.76
+Buy: $1216.13
+Buy: $1192.98
+Sell: $1188.04 | Profit: -$53.96
+Sell: $1161.79 | Profit: -$91.51
+Sell: $1158.67 | Profit: -$79.23
+Buy: $1195.19
+Sell: $1246.96 | Profit: -$14.19
+Sell: $1244.58 | Profit: $28.45
+Sell: $1261.01 | Profit: $68.03
+Buy: $1234.35
+Sell: $1255.19 | Profit: $60.00
+Buy: $1236.47
+Sell: $1225.73 | Profit: -$8.62
+Sell: $1211.82 | Profit: -$24.65
+Buy: $1215.75
+Buy: $1219.66
+Sell: $1243.72 | Profit: $27.97
+Sell: $1254.00 | Profit: $34.34
+--------------------------------
+GSPC_Evaluation_Dataset Total Profit: $445.39

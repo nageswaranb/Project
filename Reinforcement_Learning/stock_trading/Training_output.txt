@@ -1,0 +1,134 @@
+Usage: python train.py [stock] [window] [episodes]
+Enter stock_name, window_size, Episode_countGSPC_Training_Dataset
+10
+30
+Episode 0/30
+--------------------------------
+-----Episode: 0 -----
+Total Profit: $865.92
+WARNING:tensorflow:From /usr/local/lib/python3.7/dist-packages/tensorflow/python/training/tracking/tracking.py:111: Model.state_updates (from tensorflow.python.keras.engine.training) is deprecated and will be removed in a future version.
+Instructions for updating:
+This property should not be used in TensorFlow 2.0, as updates are applied automatically.
+WARNING:tensorflow:From /usr/local/lib/python3.7/dist-packages/tensorflow/python/training/tracking/tracking.py:111: Layer.updates (from tensorflow.python.keras.engine.base_layer) is deprecated and will be removed in a future version.
+Instructions for updating:
+This property should not be used in TensorFlow 2.0, as updates are applied automatically.
+Episode 1/30
+--------------------------------
+-----Episode: 1 -----
+Total Profit: $7141.67
+Episode 2/30
+--------------------------------
+-----Episode: 2 -----
+Total Profit: $6871.84
+Episode 3/30
+--------------------------------
+-----Episode: 3 -----
+Total Profit: $6425.62
+Episode 4/30
+--------------------------------
+-----Episode: 4 -----
+Total Profit: $7306.68
+Episode 5/30
+--------------------------------
+-----Episode: 5 -----
+Total Profit: $7161.61
+Episode 6/30
+--------------------------------
+-----Episode: 6 -----
+Total Profit: $6990.42
+Episode 7/30
+--------------------------------
+-----Episode: 7 -----
+Total Profit: $7420.58
+Episode 8/30
+--------------------------------
+-----Episode: 8 -----
+Total Profit: $5741.95
+Episode 9/30
+--------------------------------
+-----Episode: 9 -----
+Total Profit: $7061.20
+Episode 10/30
+--------------------------------
+-----Episode: 10 -----
+Total Profit: $5241.04
+Episode 11/30
+--------------------------------
+-----Episode: 11 -----
+Total Profit: $7092.10
+Episode 12/30
+--------------------------------
+-----Episode: 12 -----
+Total Profit: $6816.25
+Episode 13/30
+--------------------------------
+-----Episode: 13 -----
+Total Profit: $6431.38
+Episode 14/30
+--------------------------------
+-----Episode: 14 -----
+Total Profit: $6240.14
+Episode 15/30
+--------------------------------
+-----Episode: 15 -----
+Total Profit: $5827.87
+Episode 16/30
+--------------------------------
+-----Episode: 16 -----
+Total Profit: $5912.93
+Episode 17/30
+--------------------------------
+-----Episode: 17 -----
+Total Profit: $4592.13
+Episode 18/30
+--------------------------------
+-----Episode: 18 -----
+Total Profit: $6146.69
+Episode 19/30
+--------------------------------
+-----Episode: 19 -----
+Total Profit: $6504.60
+Episode 20/30
+--------------------------------
+-----Episode: 20 -----
+Total Profit: $5526.26
+Episode 21/30
+--------------------------------
+-----Episode: 21 -----
+Total Profit: $6493.13
+Episode 22/30
+--------------------------------
+-----Episode: 22 -----
+Total Profit: $6761.81
+Episode 23/30
+--------------------------------
+-----Episode: 23 -----
+Total Profit: $6308.82
+Episode 24/30
+--------------------------------
+-----Episode: 24 -----
+Total Profit: $6131.78
+Episode 25/30
+--------------------------------
+-----Episode: 25 -----
+Total Profit: $6599.88
+Episode 26/30
+--------------------------------
+-----Episode: 26 -----
+Total Profit: $5144.48
+Episode 27/30
+--------------------------------
+-----Episode: 27 -----
+Total Profit: $5699.61
+Episode 28/30
+--------------------------------
+-----Episode: 28 -----
+Total Profit: $5480.21
+Episode 29/30
+--------------------------------
+-----Episode: 29 -----
+Total Profit: $5844.89
+Episode 30/30
+--------------------------------
+-----Episode: 30 -----
+Total Profit: $6726.90

@@ -1,0 +1,21 @@
+conda create -n rlEnv python=3.7
+
+conda activate rlEnv
+
+pip install tensorflow==2.3.1 gym keras-rl2
+
+
+pip install gym==0.17.3
+pip install stable-baseline3(on hold for now)
+
+
+
+----project
+!pip install python-opengl xvfb
+!pip install pyvirtualdisplay
+!apt install xvfb -y
+!pip install piglet
+!pip3 install box2d-py
+!pip3 install gym[Box_2D]
+!pip install tensorflow==2.3.1 gym keras-rl2
+
