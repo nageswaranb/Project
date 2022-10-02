@@ -1,0 +1,1 @@
+python cnn/resnet.py  --dataset train --weights cnn/weights/ --output cnn/gpu.png
