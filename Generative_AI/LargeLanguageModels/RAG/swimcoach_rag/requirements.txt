@@ -1,0 +1,23 @@
+# Core
+openai>=1.30.0
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+
+# Azure
+azure-search-documents>=11.4.0
+azure-cosmos>=4.5.0
+azure-storage-blob>=12.19.0
+
+# Pinecone
+pinecone-client>=3.0.0
+
+# Video processing
+opencv-python-headless>=4.9.0
+ffmpeg-python>=0.2.0
+
+# Utilities
+httpx>=0.27.0
+tenacity>=8.2.0        # retry logic
+rich>=13.7.0           # pretty CLI output
+tqdm>=4.66.0           # progress bars
+numpy>=1.26.0
