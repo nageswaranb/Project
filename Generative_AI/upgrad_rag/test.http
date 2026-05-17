@@ -1,0 +1,69 @@
+### ── LOCAL TESTING (Docker running on your machine) ──────────
+
+### 1. Health check — is the app running?
+GET http://localhost:7860/
+
+###
+
+### 2. First question (no history)
+POST http://localhost:7860/chat
+Content-Type: application/json
+
+{
+  "question": "What is the story about?",
+  "history": []
+}
+
+###
+
+### 3. Follow-up question (with history)
+POST http://localhost:7860/chat
+Content-Type: application/json
+
+{
+  "question": "What does the villain do?",
+  "history": [
+    {"role": "user",      "content": "What is the story about?"},
+    {"role": "assistant", "content": "The story is about Snow White..."}
+  ]
+}
+
+###
+
+### 4. Character question
+POST http://localhost:7860/chat
+Content-Type: application/json
+
+{
+  "question": "Who are the main characters?",
+  "history": []
+}
+
+###
+
+### 5. End of story
+POST http://localhost:7860/chat
+Content-Type: application/json
+
+{
+  "question": "What happens at the end of the story?",
+  "history": []
+}
+
+
+### ── HUGGING FACE TESTING (after cloud deployment) ───────────
+### Replace YOUR_HF_USERNAME with your actual Hugging Face username
+
+### 6. Health check — HF
+GET https://YOUR_HF_USERNAME-my-rag-app.hf.space/
+
+###
+
+### 7. Ask a question — HF
+POST https://YOUR_HF_USERNAME-my-rag-app.hf.space/chat
+Content-Type: application/json
+
+{
+  "question": "What is the story about?",
+  "history": []
+}
